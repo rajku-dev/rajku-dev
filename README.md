@@ -11,7 +11,6 @@
 </p>
 
 ### 🙋‍♂️ About Me
-- 👩‍🎓 I'm a sophomore at **IIIT Naya Raipur studying Computer Science**
 
 - 🔭 I’m looking to contribute to **Open Source**
 
